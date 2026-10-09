@@ -1,6 +1,6 @@
 # Hola, soy Tomás Celli 
 
-## QA Manual | Testing funcional y de regresión
+## QA Manual | Testing funcional | De regresión | SmokeTest | Exploratorio | Retest
 
 Soy estudiante de Informática, enfocado en QA Manual y en la evolución hacia QA Automation.
 
