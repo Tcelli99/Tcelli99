@@ -1,21 +1,25 @@
 # Hola, soy Tomás Celli 
 
-## QA Manual Tester
+## QA Manual | Testing funcional y de regresión
 
-Me especializo en testing funcional y de regresión, diseño y ejecución de casos de prueba, documentación de incidencias y validación de aplicaciones.
+Soy estudiante de Informática, enfocado en QA Manual y en la evolución hacia QA Automation.
 
-Actualmente estoy desarrollando mis conocimientos en QA Automation mediante Python, Selenium y pytest.
+Tengo experiencia en el diseño y ejecución de casos de prueba, testing funcional, regresión, caja negra, documentación de incidencias y validación de aplicaciones desde la interfaz, las APIs y las bases de datos.
+
+Actualmente estoy ampliando mis conocimientos en automatización con Python, Selenium y Pytest, además de explorar la Inteligencia Artificial aplicada al proceso de testing.
 
 ##  Competencias de QA
 
-- Diseño de planes y casos de prueba
+- Diseño de planes, escenarios y casos de prueba
 - Testing funcional y de regresión
 - Pruebas de usabilidad, compatibilidad y caja negra
 - Reporte y seguimiento de bugs
+- Validación de criterios de aceptación
 - API Testing con Postman
 - Validación de datos mediante SQL
 - Metodologías ágiles y Scrum
 - Inteligencia Artificial aplicada a QA
+- Prompt engineering aplicado a testing
 
 ##  Tecnologías y herramientas
 
@@ -26,18 +30,33 @@ Actualmente estoy desarrollando mis conocimientos en QA Automation mediante Pyth
 - Java
 - Python
 - Selenium, en formación
-- pytest, en formación
+- Pytest, en formación
 
 ##  Portfolio de proyectos
 
-Próximamente vas a encontrar proyectos relacionados con:
+Este espacio reúne proyectos prácticos relacionados con:
 
 - Testing manual de aplicaciones web
 - Diseño y ejecución de casos de prueba
-- Documentación de incidencias
+- Elaboración de planes de prueba
+- Documentación y seguimiento de incidencias
 - Pruebas de API con Postman
 - Validaciones de bases de datos con SQL
-- Automatización de pruebas con Selenium y pytest
+- Automatización de pruebas con Selenium y Pytest
+- Aplicación de Inteligencia Artificial al proceso de QA
+
+Cada proyecto incluirá documentación, evidencias y conclusiones sobre los resultados obtenidos.
+
+##  Idiomas
+
+- Español: nativo
+- Inglés: B2
+
+##  Conocimientos complementarios
+
+- Diagnóstico y optimización de equipos
+- Soporte técnico de hardware y software
+- Investigación y resolución de problemas técnicos
 
 ##  Contacto
 
